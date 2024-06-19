@@ -31,7 +31,7 @@ function App() {
       <div className='container'>
         <div className='wrapper'>
           <h1>File Link Generator!</h1>
-          <p>Upload the file of any format and share the download link🔗.</p>
+          <p>Upload a file of any format and share the download link🔗.</p>
 
           <button onClick={onUploadClick}>Upload</button>
           <input
